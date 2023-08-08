@@ -1,6 +1,6 @@
 # AR/VR Project: Bharat Ke Veer Website VR Experience
 
-![Project Banner](project_banner.png)
+
 
 Welcome to the AR/VR project that brings a unique and immersive Virtual Reality (VR) experience to the Bharat Ke Veer website—a noble fundraising initiative that supports the families of Indian armed forces and paramilitary personnel who sacrificed their lives in the line of duty. This project aims to provide users with an engaging way to explore and connect with the stories of these brave individuals and their families through a cutting-edge AR/VR interface.
 
