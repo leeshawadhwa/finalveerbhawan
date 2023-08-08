@@ -14,17 +14,11 @@ The **Bharat Ke Veer Website VR Experience** project is an innovative attempt to
 
 - **Interactive Storytelling**: Engage with the stories of brave individuals and their families through interactive VR storytelling elements, enhancing emotional connection and empathy.
 
-- **Donation Integration**: Seamlessly integrate with the Bharat Ke Veer donation platform, allowing users to contribute directly from the VR experience.
+
 
 - **AR Support**: For users without VR devices, an Augmented Reality mode will be available, enabling them to interact with AR content related to the initiative.
 
 - **User-Friendly Interface**: Intuitive VR controls and navigation make it easy for users to explore and interact with the VR environment.
 
-## Getting Started
 
-To experience the Bharat Ke Veer Website VR, follow these steps:
 
-1. **Clone the Repository**: Clone this GitHub repository to your local machine.
-
-   ```bash
-   git clone https://github.com/your-username/bharat-ke-veer-vr.git
